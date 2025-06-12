@@ -2,7 +2,8 @@
 
 Este é um projeto de **landing page moderna e responsiva**, desenvolvido com **React, Vite e TailwindCSS**, ideal para negócios que querem presença online com identidade visual leve e objetiva.
 
-![preview](./src/assets/preview.png) <!--  -->
+[![Preview da landing page](./src/assets/preview.png)](https://sjessicamoraes.github.io/landing-page-x)
+
 
 ---
 
@@ -18,7 +19,7 @@ Este é um projeto de **landing page moderna e responsiva**, desenvolvido com **
 
 ## 📸 Preview
 
-🔗 [Clique aqui para acessar a página publicada](https://jessicamoraes.github.io/landing-page-jessica)
+🔗 [Clique aqui para acessar a página publicada](https://sjessicamoraes.github.io/landing-page-x)
 
 ---
 
